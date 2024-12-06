@@ -1,0 +1,17 @@
+{
+  "textPlan": "Plan",
+  "textDate": "Date",
+  "textPlanType": "PlanType",
+  "textApplyNow": "Apply Now",
+  "planTypeNote": "*You can choose multiple Order type",
+  "dateCalendarNote": "*You can choose multiple dates",
+  "textExport": "Export",
+  "textFilterBy": "Filter By",
+  "textSelectPlanType": "Select Plan Type",
+  "textSelectNotificationsType": "Select Notifications Type",
+  "textAllNotifications": "All Notifications",
+  "textTodaysBirthdays": "Today's Birthdays",
+  "textThisMonthBirthdays": "This Month",
+  "textExpiringToday": "Expiring Today",
+  "textSelectDates": "select Dates"
+}

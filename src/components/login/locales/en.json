@@ -1,0 +1,14 @@
+{
+  "loading": "Loading...",
+  "loginErrorMessage": "Please try again!",
+  "login": "Login",
+  "emailPlaceholder": "Please enter email",
+  "passwordPlaceholder": "Please enter password",
+  "loginHeading": "Login to Account",
+  "loginSubheading": "Please enter your email and password to continue",
+  "textEmailAddress": "Email address",
+  "textPassword": "Password",
+  "textForgetPassword": "Forget Password?",
+  "textRememberPassword": "Remember Password",
+  "textSignIn" : "Sign In"
+}

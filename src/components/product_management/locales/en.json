@@ -1,0 +1,16 @@
+{
+  "textTitle": "Add New Product ",
+  "textPrice": "Price :",
+  "textProductName": "Product Name :",
+  "textDescription": "Description :",
+  "textCategory": "Category",
+  "textDiscount": "Discount Price :",
+  "textUploadFiles": "Upload Files :",
+  "textSaveButton": "Save Product",
+  "textCancel": "Cancel",
+  "textDiscountError": "Please enter the valid discount price",
+  "textPriceError": "Please enter the valid price",
+  "textFillReqiredFielddsError": "fill the required Fields",
+  "textCrateCategorySuccess": "succeeded in category creation",
+  "textCreateCategoryError": "no such category exists failed in creating"
+}

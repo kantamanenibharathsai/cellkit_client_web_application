@@ -1,0 +1,17 @@
+{
+  "dashboardText": "Dashboard",
+  "salesText": "Sales",
+  "planText": "Plan",
+  "revenueText": "Revenue",
+  "productsText": "Products",
+  "notificationText": "Notification",
+  "clamisText": "Claims",
+  "reportsText": "Reports",
+  "helpAndSupportText": "Help & Support",
+  "shopText": "Shop",
+  "accessoriesText": "Accessories",
+  "teamText": "Team",
+  "settingsText": "Settings",
+  "logoutText": "Logout",
+  "othersText": "OTHER"
+}

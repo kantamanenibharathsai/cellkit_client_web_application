@@ -1,0 +1,1 @@
+export const profileIcon = require("./image.png");

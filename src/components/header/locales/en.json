@@ -1,0 +1,21 @@
+{
+  "search": "Search",
+  "userName": "Moni Roy",
+  "userRole": "Admin",
+  "notificationText": "Notification",
+  "settingsText": "Settings",
+  "updateDashboardText": "Update Dashboard",
+  "postPurchaseText": "Post-Purchase Notifications",
+  "eventUpdateText": "An event date update again",
+  "expiryText": "Expiry",
+  "planExpireText": "Plan Expired U1001",
+  "birthNotificationText": "Birthday Notifications",
+  "nameText": "John Doe",
+  "seeAllNotificationText": "See all notification",
+  "manageAccText": "Manage Account",
+  "changePasswordText": "Change Password",
+  "activityLogText": "Activity Log ",
+  "logoutText": "Log out",
+  "textCancel": "Cancel",
+  "textLogoutConfirmation": "Do you want to log out?"
+}

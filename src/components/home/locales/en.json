@@ -1,0 +1,19 @@
+{
+  "dashboardText": "Dashboard",
+  "totalUsersHeading": "Total User",
+  "totalUserDescription": "Up from yesterday",
+  "totalUserCount": "40,689",
+  "revenueHeading": "Statistics",
+  "revenueCount": "₹89,000",
+  "revenueDescription": "Down from yesterday",
+  "activePlansHeading": "Active Plans",
+  "activePlansCount": "2400",
+  "activePlansDescription": "Up from past week",
+  "expiredPlanHeading": "Expired Plan",
+  "expiredPlanCount": "215",
+  "expiredPlanDescription": "Up from yesterday",
+  "selectMonthText": "Select Month",
+  "salesDetails": "Sale Details",
+  "allPlans": "All Plans",
+  "percentageSymbal": "%"
+}

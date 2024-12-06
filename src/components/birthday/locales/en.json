@@ -1,0 +1,17 @@
+{
+  "textAddNewCoupon": "Create Birthday Coupon",
+  "textEditCoupon": "Edit Birthday Coupon",
+  "textCouponCode": "Coupon Code",
+  "textDescription": "Description",
+  "textDiscountValue": "Discount Value",
+  "textValidityPeriod": "Validity Period",
+  "textDiscountType": "Discount Type",
+  "textApplicableProducts": "Applicable Products",
+  "textApplicableCategories": "Applicable Categories",
+  "textSomethingWentWrong": "Something Went Wrong",
+  "textPerUser": "Per User",
+  "textOverallLimit": "Overall Limit",
+  "textSaveCoupon": "Save Coupon",
+  "textCancel": "Cancel",
+  "textUpdateCoupon": "Update Coupon"
+}

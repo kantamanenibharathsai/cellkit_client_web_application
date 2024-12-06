@@ -1,0 +1,17 @@
+  .dzu-previewStatusContainer > progress {
+    background:  #14ACA4;
+    border-radius:4px;  
+height:5px
+}
+.dzu-previewStatusContainer > progress::-webkit-progress-value {
+    background-color: #14ACA4;
+    border-radius:4px; 
+}
+
+.dzu-previewStatusContainer > progress::-moz-progress-bar {
+    background-color: #14ACA4; 
+    border-radius:4px; 
+}
+.dzu-previewStatusContainer .dzu-previewButton {
+    background-image: url(''); 
+}

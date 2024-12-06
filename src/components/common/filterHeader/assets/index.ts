@@ -1,0 +1,1 @@
+export const downloadIcon = require('./download.svg');

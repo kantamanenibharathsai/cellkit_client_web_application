@@ -1,0 +1,10 @@
+{
+  "textAddNewBanner": "Add New Banner",
+  "textDisplayDuration": "Display Duration",
+  "textTargetURL": "Target URL",
+  "textUploadFiles": "Upload Files",
+  "textSaveBanner": "Save Banner",
+  "textCancel": "Cancel",
+  "textDatesError": "end date should be after start date",
+  "textFillRequredFields": "fill all the fields"
+}

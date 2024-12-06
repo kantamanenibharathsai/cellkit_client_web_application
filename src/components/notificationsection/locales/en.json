@@ -1,0 +1,15 @@
+{
+  "textAddNewNotification": "Add New Notification",
+  "textEditNotification": "Edit Notification",
+  "textNotificationTypeName": "Notification Type Name",
+  "textTrigger": "Trigger",
+  "textNotificationContent": "Notification Content",
+  "textSchedule": "Schedule",
+  "textDeliveryMethod": "Delivery Method",
+  "textSave": "Save",
+  "textCancel": "Cancel",
+  "textUpdate": "Update",
+  "textUploadImage": "Upload Image",
+  "textStatus": "Status",
+  "textNotificationTitle": "Notification Title"
+}

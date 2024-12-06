@@ -1,0 +1,20 @@
+{
+  "textAddNewCoupon": "Add New Coupon",
+  "textCouponCode": "Coupon Code",
+  "textDescription": "Description",
+  "textDiscountValue": "Discount Value",
+  "textValidityPeriodStart": "Validity Period Start",
+  "textValidityPeriodEnd": "Validity Period End",
+  "textDiscountType": "Discount Type",
+  "textApplicableProducts": "Applicable Products",
+  "textApplicableCategories": "Applicable Categories",
+  "textPerUser": "Per User",
+  "textOverallLimit": "Overall Limit",
+  "textMinCartValue": "Min Cart Value",
+  "textSaveCoupon": "Save Coupon",
+  "textCancel": "Cancel",
+  "textSomethingWentWrong": "Something went wrong",
+  "textCouponAddedSuccessfully": "Coupon Added Successfully",
+  "textEditCoupon": "Edit Coupon",
+  "textUpdateCoupon": "Update Coupon"
+}
